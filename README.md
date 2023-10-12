@@ -7,7 +7,7 @@ This repository contains code samples in R and Python to showcase my programming
 1. Python code sample (https://github.com/aamandapena/sample_code/blob/main/Python_sample_code.ipynb)
 2. R code sample (https://github.com/aamandapena/sample_code/blob/main/R_sample_code.R)
 
-## R Code Samples
+## R Code Sample
 
 This R code is part of a data cleaning and preprocessing process for a database related to the UFES entrance exam. It is authored by Amanda Pena and is a part of a Master's dissertation/thesis project. The code focuses on cleaning and preparing the data for further analysis.
 
@@ -29,7 +29,7 @@ Follow these steps to run the R code:
 
 #Inspect Results: As you run the code, it will read the data, clean, preprocess, and save the processed data into Excel files in the "data" folder.
 
-## Python Code Samples
+## Python Code Sample
 
 This Python script is designed to handle a large dataset that couldn't be efficiently processed using R. It reads a CSV file, processes the data, and prints the first 200 characters of each line to the console. The processed data is then saved to an output file.
 
